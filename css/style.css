@@ -1,0 +1,31 @@
+h1 {
+	font-family: arial, sans-serif;
+	text-align: center;
+	margin: 10px auto;
+}
+
+.sketchpad {
+	background-color: #eee;
+	width: 700px;
+	height: 700px;
+	margin: 30px auto;
+	padding: 0px;
+	border: 1px solid #b1b1b1;
+}
+
+.buttons {
+	text-align: center;
+}
+
+.buttons button {
+	font-family: arial, sans-serif;
+	color: #4B494B;
+	font-weight: bold;
+	font-size: 15px;
+	margin: 0 5px;
+}
+
+.footer {
+	margin: 12px auto;
+	text-align: center;
+}
